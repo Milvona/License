@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "issued_at_utc": "2026-01-06T13:00:00Z",
+  "licenses": [
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-01",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-02",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-03",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-04",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-05",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-06",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-07",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-08",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-09",
+      "disabled": false
+    },
+    {
+      "h": "5E4E6B2E6F2E8A7D1D5F7D8E94A4E1C1E7E5A4E39F9E7B7D3C9A52E1D2B9C5A",
+      "expires_at_utc": "2026-01-09T13:00:00Z",
+      "note": "code-10",
+      "disabled": false
+    }
+  ]
+}
