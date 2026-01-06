@@ -12,7 +12,7 @@
       "h": "45F834E828257FDB29FE29327B40349CAC62314B4F7CA92BA3976FB497F12662",
       "expires_at_utc": "2026-01-09T19:17:28Z",
       "note": "code-02",
-      "disabled": false
+      "disabled": true
     },
     {
       "h": "0B1A4D81D0DC7DA33DFF65894B04B46061CF5D2239D95E4E20A3D96429592CE6",
